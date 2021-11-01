@@ -28,7 +28,7 @@ The dataset is collected from an IP address located in Japan in May 2021.
 
 ***
 ## Citation
-If you use this dataset in your research, please cite our ... publication. You can use the following BibTeX.
+If you use this dataset in your research, please cite our CoNEXT 2021 publication. You can use the following BibTeX.
 ```
 @inproceedings{df2021,
   title={Alternative to third-party cookies: Investigating persistent PII leakage-based web tracking},
